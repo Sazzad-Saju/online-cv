@@ -36,14 +36,14 @@ sidebar:
 #       - idiom: Spanish
 #         level: Professional
 
-    interests:
-      - item: Climbing
+   interests:
+      - item: Web Development
         link:
 
-      - item: Snowboarding
+      - item: Web Scraping
         link:
 
-      - item: Cooking
+      - item: Cryptography
         link:
 
 career-profile:
