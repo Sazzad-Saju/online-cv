@@ -16,14 +16,14 @@ sidebar:
     phone: 01766601932
     website: sazzad-saju.github.io #do not add http://
     linkedin: Sazzad Saju
-   # xing: alandoe
+   xing:
     github: Sazzad-Saju
-   # telegram: # add your nickname without '@' sign
-   # gitlab:
-   # bitbucket:
+   telegram: # add your nickname without '@' sign
+   gitlab:
+   bitbucket:
     twitter: '@SazzadSaju6'
     stack-overflow: 10682584/sazzad # Number/Username
-   # codewars: 
+   codewars: 
     goodreads: 92158663-sazzad-saju
 
     languages:
@@ -49,19 +49,24 @@ sidebar:
 career-profile:
     title: Career Profile
     summary: |
-      Sazzad Hossain Saju is graduated from Hajee Mohammad Danesh Science and Technology University from the Department of Computer Science and Engineering. He had a good reputation for participation in the inter-university programming contest and ICPC. Sazzad is proficient in full-stack development with HTML, CSS, Bootstrap, Javascript, and Python. He has also working experience in cryptography and data security. Sazzad is currently looking for a job opportunity as a full-stack developer to boost his learning and apply them is the real-life application.
+      Sazzad Hossain Saju is graduated from Hajee Mohammad Danesh Science and Technology University
+      from the Department of Computer Science and Engineering. He had a good reputation for participation
+      in the inter-university programming contest and ICPC. Sazzad is proficient in full-stack development
+      with HTML, CSS, Bootstrap, Javascript, and Python. He has also working experience in cryptography
+      and data security. Sazzad is currently looking for a job opportunity as a full-stack developer to
+      boost his learning and apply them is the real-life application.
 education:
-#     - degree: MSc in Computer Science
-#       university: University of London
-#       time: 2011 - 2012
-#       details: |
-#         Describe your study here lorem ipsum dolor sit amet, consectetuer
-#         adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-#         sociis natoque penatibus et magnis dis parturient montes, nascetur
-#         ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-#         pretium quis, sem.
-#           - Bullet point
-#           - Bullet point
+    - degree: MSc in Computer Science
+      university: University of London
+      time: 2011 - 2012
+      details: |
+        Describe your study here lorem ipsum dolor sit amet, consectetuer
+        adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
+        sociis natoque penatibus et magnis dis parturient montes, nascetur
+        ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
+        pretium quis, sem.
+          - Bullet point
+          - Bullet point
     - degree: Bachelor of Science in Engineering (B.Sc Engg.)
       university: Hajee Mohammad Danesh Science and Technology University, Dinajpur, 5200
       time: 2016 - 2019
