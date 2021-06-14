@@ -27,14 +27,14 @@ sidebar:
     goodreads: 92158663-sazzad-saju
 
     languages:
-      - idiom: English
+      - idiom: Bangla
         level: Native
 
-      - idiom: French
+      - idiom: English
         level: Professional
 
-      - idiom: Spanish
-        level: Professional
+#       - idiom: Spanish
+#         level: Professional
 
     interests:
       - item: Climbing
