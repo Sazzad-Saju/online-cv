@@ -98,16 +98,17 @@ projects:
         key pair. Hence, different encrypted results exhibit the reliability of the cipher along
         with modern cryptography. <br> Language: C++ | Development Tools: DevC++ | Time Periods: November, 2020"
 
-      - title: DevStudio
-        link: "#"
+      - title: RSA Algorithm
+        link: "https://github.com/Sazzad-Saju/RSA_Algorithm"
         tagline: "RSA is a widely used asymmetric cipher that requires two large random prime numbers
-        to generate a public key and a private key to produce ciphertext. This program makes the
+        to generate a public key and a private key to produce ciphertext. This project makes the
         algorithm workable within any range of prime numbers. So the user of this system can
         experiment with any inputs. <br> Language: Python | Development Tools: PyCharm | Time Periods: December, 2020 "
 
-      - title: Tempo
-        link: "#"
-        tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+      - title: Portfolio Website
+        link: "https://sazzad-saju.github.io/"
+        tagline: "A responsive website development project that contains all of my activities
+        and achievements so far in a well-planned decoration.<br> Scripted Language: HTML, CSS | Framework: Bootstrap |  Development Tools: VSCode, Google Chrome | Time Periods:  June, 2021"
 
       - title: Atom
         link: "#"
