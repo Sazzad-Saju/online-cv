@@ -96,7 +96,7 @@ projects:
         a pair of sub-keys from an input key through a complex key generation technique used in
         encryption. The slightest change in the input symmetric key produces an entirely different
         key pair. Hence, different encrypted results exhibit the reliability of the cipher along
-        with modern cryptography. <br> Language: C++"
+        with modern cryptography. <br> Language: C++ <br> Time Periods: November, 2020"
 
       - title: DevStudio
         link: "#"
