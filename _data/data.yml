@@ -73,19 +73,19 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-experiences:
-    - role: 
-      time: 
-      company: 
-      details:
-    - role:
-      time:
-      company:
-      details: 
-    - role: 
-      time:
-      company:
-      details: 
+# experiences:
+#     - role: 
+#       time: 
+#       company: 
+#       details:
+#     - role:
+#       time:
+#       company:
+#       details: 
+#     - role: 
+#       time:
+#       company:
+#       details: 
 projects:
     title: Projects
     intro: >
