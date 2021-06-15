@@ -73,7 +73,7 @@ education:
         pretium quis, sem.
           - Bullet point
           - Bullet point
-experiences:
+# experiences:
     - role: 
       time: 
       company: 
