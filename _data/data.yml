@@ -110,13 +110,17 @@ projects:
         tagline: "A responsive website development project that contains all of my activities
         and achievements so far in a well-planned decoration.<br> Scripted Language: HTML, CSS | Framework: Bootstrap |  Development Tools: VSCode, Google Chrome | Time Periods:  June, 2021"
 
-      - title: Atom
-        link: "#"
-        tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+      - title: Mail From Google Spreadsheet
+        link: "https://github.com/Sazzad-Saju/Mail_from_googleSpreadSheets"
+        tagline: "In an organizational need, an email has to send to a lot of clients. An old-school solution
+        to this is to use Gmail's CC BCC feature. In this way, all clients' email addresses are exposed to all
+        which is a violation of privacy. This project overcomes this problem. <br> Language: Javascript | Development Tools: VSCode, Google Spreadsheet | Time Periods: October, 2020"
 
-      - title: Delta
-        link: "#"
-        tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+      - title: Spells and Grammer Checker
+        link: "https://github.com/Sazzad-Saju/Spells-and-Grammer-Checker"
+        tagline: " This project implements the 'Trie' data structure to performs spell checking of an input 
+        file fed to it. As well as this program corrects basic grammatical errors. 
+        <br> Language: C++ | Development Tools: Codeblocks | Time Periods: June, 2020"
 
 publications:
     title: Publications
